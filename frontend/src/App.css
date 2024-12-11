@@ -1,0 +1,30 @@
+:root{
+  --green:#444444;
+  --orange:#ff681a;
+  --white:#fff;
+  --caption:#303030;
+  --text:#8c8c8c;
+  --cardcolor:#f3f3f3
+
+}
+.rowupersize{
+  width: 86%;
+}
+.bgimgforall{
+ 
+  width: 100%;
+  height: 40vh;
+ border-radius: 0;
+ filter: brightness(0.5);
+}
+.titleforrmat{
+  padding: 69px;
+  font-size: 30px;
+}
+
+.defaultProp{
+  /* border-color: white !important; */
+  border-radius: 0% !important;
+  border: none !important;
+  box-shadow: none !important;
+}
